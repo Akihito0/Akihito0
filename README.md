@@ -10,4 +10,8 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Akihito0&theme=dark&currStreakLabel=EBEBDF&sideNums=EBEBDF&sideLabels=EBEBDF&dates=EBEBDF&fire=4334DE&ring=4334DE"
     alt="GitHub Streak"
   />
+
+  </br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Akihito0&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
